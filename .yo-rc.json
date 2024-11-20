@@ -1,0 +1,27 @@
+{
+  "generator-jhipster": {
+    "applicationType": "microservice",
+    "baseName": "figmaclone",
+    "buildTool": "gradle",
+    "cacheProvider": "hazelcast",
+    "clientFramework": null,
+    "clientPackageManager": null,
+    "clientTheme": null,
+    "creationTimestamp": 1732123338380,
+    "databaseType": "sql",
+    "enableHibernateCache": false,
+    "enableTranslation": false,
+    "entities": [],
+    "jhipsterVersion": "8.7.3",
+    "jwtSecretKey": "NzAwMDA5ZDEyZmQyZTRkMTcyOTY4ZTIzMTE4ODkwYjAyMWY0YWE5Yjg3ZWU4MTcwYWJjY2I5ODRhYjYzNmNjMjdlNDcyMzhlOTgxYmM3YTY4OTFmY2U3OGUwZjE1ZjE4ZGQzOGFiOTRkM2EwMTcxNGJhZTVhMmM5MWYxN2NlYjM=",
+    "microfrontend": false,
+    "nativeLanguage": "en",
+    "otherLanguages": null,
+    "reactive": false,
+    "serviceDiscoveryType": "consul",
+    "skipClient": true,
+    "skipUserManagement": true,
+    "testFrameworks": ["cucumber"],
+    "websocket": null
+  }
+}
